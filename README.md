@@ -1,4 +1,4 @@
-# SuperOps Dashboard
+# Support ticket Dashboard
 
 A modern React application demonstrating a comprehensive IT service management dashboard for MSPs and IT teams. This project showcases advanced React patterns, state management, and real-time features.
 
